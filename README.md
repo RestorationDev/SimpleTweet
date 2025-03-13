@@ -5,7 +5,7 @@
 Time spent: **8** hours spent in total
 
 ## User Stories
-
+ 
 The following **required** functionality is completed:
 
 - [X] User can **compose and post a new tweet**
